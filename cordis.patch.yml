@@ -1,0 +1,3 @@
+- insert:
+    - id: intent-navigator
+      name: '@intent-navigator/dsh-plugin'
